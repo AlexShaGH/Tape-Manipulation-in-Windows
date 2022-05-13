@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TapeForms", "TapeForms\TapeForms.vcxproj", "{EB68490C-84D6-4142-B075-2A19B8100BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB68490C-84D6-4142-B075-2A19B8100BDF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EB68490C-84D6-4142-B075-2A19B8100BDF}.Debug|Win32.Build.0 = Debug|Win32
+		{EB68490C-84D6-4142-B075-2A19B8100BDF}.Release|Win32.ActiveCfg = Release|Win32
+		{EB68490C-84D6-4142-B075-2A19B8100BDF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
